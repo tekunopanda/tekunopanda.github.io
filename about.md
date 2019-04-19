@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Lorena Sofia (the techno panda) is a computational biology PhD student with a love for all technological things. She has a particular affinity for UNIX operating systems and open-source software. 
 
-### More Information
+During her spare time, she learns how to build computers, design websites.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Join me
+
+If you want to learn about this tools too. Make sure to subscribe!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tekunopanda@gmail.com](mailto:tekunopanda@gmail.com)
