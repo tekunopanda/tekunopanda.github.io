@@ -17,14 +17,14 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: tekunopanda@gmail.com
   facebook:
   flickr:
   github: tekunopanda/tekunopanda.github.io
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: subscribe # just type anything here for a working RSS icon
   twitter: tekunopanda
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
